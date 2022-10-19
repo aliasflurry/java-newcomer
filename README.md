@@ -18,17 +18,22 @@ Learn Java Decision [here](https://www.w3schools.com/java/java_conditions.asp)
 ## 6. Java loop
 
 Learn Java loop [here](https://www.javatpoint.com/java-for-loop)
-## 7. Java Methods
+
+## 7. Java Collections
+
+Learn Java Collection [here](https://www.javatpoint.com/collections-in-java)
+
+## 8. Java Methods
 
 Learn java method [here](https://www.w3schools.com/java/java_methods.asp)
-## 8. Excercise
+## 9. Excercise
 Using your hello world project
 - Create a static method
 - Input 1: hourlySalary: type BigDecimal
 - Input 2: monthlyWorkHours: type Integer
 - Output: return the monthly salary (hourlySalary multiply with monthlyWorkHours)
 
-## 9. Java clases
+## 10. Java clases
 Learn Java classes [here](https://www.w3schools.com/java/java_classes.asp)
 
 Java Class Attribute [here](https://www.w3schools.com/java/java_class_attributes.asp)
@@ -37,7 +42,7 @@ Java class method [here](https://www.w3schools.com/java/java_class_methods.asp)
 
 Java class constructors [here](https://www.w3schools.com/java/java_constructors.asp)
 
-## 10. Excercise
+## 11. Excercise
 
 Using your hello world project
 - Create StudentProfile class with attributes
@@ -50,7 +55,7 @@ Using your hello world project
 - Create two student profiles and print out all atribute
 - Call the increase student's expectation graduation year by 1 method and print Expected year to graduate from both students
 
-## 11. Object oriented Programming
+## 12. Object oriented Programming
 Learn more about OOP [here](https://www.techtarget.com/searchapparchitecture/definition/object-oriented-programming-OOP)
 
 # Spring Framework - 1 week
