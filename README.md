@@ -58,4 +58,15 @@ Using your hello world project
 ## 12. Object oriented Programming
 Learn more about OOP [here](https://www.techtarget.com/searchapparchitecture/definition/object-oriented-programming-OOP)
 
+# Git - 1 day
+
+Learn more about git [here](https://git-scm.com/docs/gittutorial)
+
+Need to know:
+- Clone repository
+- Commit code
+- Pull code
+- Merge code
+- Rebase code
+
 # Spring Framework - 1 week
