@@ -69,4 +69,13 @@ Need to know:
 - Merge code
 - Rebase code
 
+## Excercise 
+
+- Create a repo on github
+- Create a new branch named excercise
+- Add the code from from Java Core to the branch
+- Push the code on github
+- Create a pull/merge request to main branch
+- Add @aliasflurry to the repository
+
 # Spring Framework - 1 week
