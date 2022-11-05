@@ -79,3 +79,24 @@ Need to know:
 - Add @aliasflurry to the repository
 
 # Spring Framework - 1 week
+
+## 1. Solid Principles
+
+Learn more about SOLID [here](https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+
+## 2. Spring basics
+- JDK vs JRE vs JVM
+- Spring Profiles
+- Building Spring Application: Maven, Graddle.
+- Executable Jar
+
+## Exercise
+
+@@ 1 book analogy
+
+A **book** is to **reading** as a **fork** is to:
+
+[( )] drawing 
+[( )] writing
+[( )] stirring
+[(x)] eating
