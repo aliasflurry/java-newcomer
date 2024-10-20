@@ -55,10 +55,15 @@ Using your hello world project
 - Create two student profiles and print out all atribute
 - Call the increase student's expectation graduation year by 1 method and print Expected year to graduate from both students
 Solve neetcode problem:
+
 https://neetcode.io/problems/buy-and-sell-crypto
+
 https://neetcode.io/problems/is-palindrome
+
 https://neetcode.io/problems/two-integer-sum
+
 https://neetcode.io/problems/is-anagram
+
 https://neetcode.io/problems/duplicate-integer
 
 ## 12. Object oriented Programming
