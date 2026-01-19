@@ -1,106 +1,405 @@
-# Java Core - 1 week
-## 1. Helo world Java
-Create your first java application [here](https://www.programiz.com/java-programming/hello-world)
-## 2. Data  types and variables
-Data types and variable [here](https://www.javatpoint.com/java-variables#:~:text=There%20are%20three%20types%20of,%3A%20primitive%20and%20non%2Dprimitive.)
+# Java Core and Git - 1 week
+## 1. Hello World in Java
+**Objective:** Create your first Java application.
 
-Data types [here](https://www.javatpoint.com/java-data-types)
+### Topics
+- What is Java?
+- Java program structure
+- `main` method
+- Printing output using `System.out.println`
+
+### Exercise
+- Create a simple **Hello World** Java application
+- Run it from your IDE or command line
+
+---
+
+## 2. Data Types and Variables
+**Objective:** Understand how Java stores data.
+
+### Topics
+- Primitive data types
+  - `int`, `long`, `double`, `float`
+  - `boolean`, `char`
+- Wrapper classes
+  - `Integer`, `Long`, `Double`
+- Variables declaration and initialization
+- Type conversion (implicit & explicit)
+
+---
 
 ## 3. Java String
+**Objective:** Learn how Java handles text.
 
-Learn Java String [here](https://www.javatpoint.com/java-string)
+### Topics
+- `String` class
+- String immutability
+- Common methods
+  - `length()`
+  - `substring()`
+  - `equals()` vs `==`
+  - `toUpperCase()`, `toLowerCase()`
+
+---
+
 ## 4. Java Operators
-Learn Java operators [here](https://www.w3schools.com/java/java_operators.asp)
+**Objective:** Perform operations on data.
 
-## 5. Java Decision
+### Topics
+- Arithmetic operators (`+ - * / %`)
+- Comparison operators (`== != > < >= <=`)
+- Logical operators (`&& || !`)
+- Assignment operators (`= += -=`)
 
-Learn Java Decision [here](https://www.w3schools.com/java/java_conditions.asp)
-## 6. Java loop
+---
 
-Learn Java loop [here](https://www.javatpoint.com/java-for-loop)
+## 5. Java Decision Making
+**Objective:** Control program flow using conditions.
+
+### Topics
+- `if`
+- `if-else`
+- `else if`
+- `switch`
+
+---
+
+## 6. Java Loops
+**Objective:** Execute code repeatedly.
+
+### Topics
+- `for` loop
+- `while` loop
+- `do-while` loop
+- `break` and `continue`
+
+---
 
 ## 7. Java Collections
+**Objective:** Store and manage groups of objects.
 
-Learn Java Collection [here](https://www.javatpoint.com/collections-in-java)
+### Topics
+- `List`
+  - `ArrayList`
+- `Set`
+  - `HashSet`
+- `Map`
+  - `HashMap`
+- Iteration using loops and `for-each`
+
+---
 
 ## 8. Java Methods
+**Objective:** Organize reusable code.
 
-Learn java method [here](https://www.w3schools.com/java/java_methods.asp)
-## 9. Excercise
-Using your hello world project
-- Create a static method
-- Input 1: hourlySalary: type BigDecimal
-- Input 2: monthlyWorkHours: type Integer
-- Output: return the monthly salary (hourlySalary multiply with monthlyWorkHours)
+### Topics
+- Method declaration
+- Method parameters
+- Return types
+- `static` vs non-static methods
 
-## 10. Java clases
-Learn Java classes [here](https://www.w3schools.com/java/java_classes.asp)
+---
 
-Java Class Attribute [here](https://www.w3schools.com/java/java_class_attributes.asp)
+## 9. Exercise – Salary Calculator
+**Using your Hello World project**
 
-Java class method [here](https://www.w3schools.com/java/java_class_methods.asp)
+### Requirements
+Create a **static method** with:
+- **Input 1:** `hourlySalary` (type `BigDecimal`)
+- **Input 2:** `monthlyWorkHours` (type `Integer`)
+- **Output:** Monthly salary (`hourlySalary × monthlyWorkHours`)
 
-Java class constructors [here](https://www.w3schools.com/java/java_constructors.asp)
+---
 
-## 11. Excercise
+## 10. Java Classes
+**Objective:** Understand class structure.
 
-Using your hello world project
-- Create StudentProfile class with attributes
-    - First Name
-    - Last Name
-    - Expected year to graduate
-    - GPA
-- Create a method that increase student's expectation graduation year by 1
-- Create a constructor with all the attributes
-- Create two student profiles and print out all atribute
-- Call the increase student's expectation graduation year by 1 method and print Expected year to graduate from both students
+### Topics
+- Class definition
+- Class attributes (fields)
+- Class methods
+- Constructors
+- `this` keyword
 
-Solve neetcode problem:
+---
 
-https://neetcode.io/problems/buy-and-sell-crypto
+## 11. Exercise – Student Profile
+**Using your Hello World project**
 
-https://neetcode.io/problems/is-palindrome
+### Requirements
+Create a class named `StudentProfile` with the following attributes:
+- First name
+- Last name
+- Expected year to graduate
+- GPA
 
-https://neetcode.io/problems/two-integer-sum
+### Methods
+- A method to increase the expected graduation year by **1**
 
-https://neetcode.io/problems/is-anagram
+### Constructor
+- A constructor that initializes all attributes
 
-https://neetcode.io/problems/duplicate-integer
+### Tasks
+- Create **two student profiles**
+- Print all attributes
+- Call the method to increase graduation year
+- Print the updated expected graduation year for both students
 
-## 12. Object oriented Programming
-Learn more about OOP [here](https://www.techtarget.com/searchapparchitecture/definition/object-oriented-programming-OOP)
+---
 
-# Git - 1 day
+### Algorithm Practice (NeetCode)
+Solve the following problems:
+- Buy and Sell Crypto  
+  https://neetcode.io/problems/buy-and-sell-crypto
+- Is Palindrome  
+  https://neetcode.io/problems/is-palindrome
+- Two Integer Sum  
+  https://neetcode.io/problems/two-integer-sum
+- Is Anagram  
+  https://neetcode.io/problems/is-anagram
+- Duplicate Integer  
+  https://neetcode.io/problems/duplicate-integer
 
-Learn more about git [here](https://git-scm.com/docs/gittutorial)
+---
 
-Need to know:
+## 12. Object-Oriented Programming (OOP)
+**Objective:** Learn core OOP principles.
+
+### Topics
+- Encapsulation
+- Inheritance
+- Polymorphism
+- Abstraction
+
+---
+
+## Git – 1 Day Crash Course
+**Objective:** Learn essential Git commands.
+
+### Must-Know Concepts
 - Clone repository
 - Commit code
-- Pull code
-- Merge code
-- Rebase code
+- Pull changes
+- Merge branches
+- Rebase (basic understanding)
 
-## Excercise 
+### Exercise
+1. Create a repository on GitHub
+2. Create a new branch named `exercise`
+3. Add all Java Core code to the branch
+4. Push the branch to GitHub
+5. Create a Pull Request (or Merge Request) to `main`
+6. Add **@aliasflurry** to the repository
 
-- Create a repo on github
-- Create a new branch named excercise
-- Add the code from from Java Core to the branch
-- Push the code on github
-- Create a pull/merge request to main branch
-- Add @aliasflurry to the repository
+---
+
+## Final Outcome
+By completing this plan, you will:
+- Understand Java fundamentals
+- Write structured Java programs
+- Apply OOP concepts
+- Solve basic algorithm problems
+- Use Git in a real workflow
 
 # Spring Framework - 1 week
 
-## 1. Solid Principles
+## Day 1 – Java & Spring Basics (Foundation)
 
-Learn more about SOLID [here](https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+### Concepts
+- Java basics
+  - OOP (Inheritance, Polymorphism, Interfaces)
+  - Annotations
+  - Packages
+- Maven basics
+  - `pom.xml`
+  - Dependencies
+- What is Spring Framework?
+  - Problems Spring solves
+  - Inversion of Control (IoC)
+  - Dependency Injection (DI)
 
-## 2. Spring basics
-- Learn spring [here](https://www.tutorialspoint.com/spring/spring_architecture.htm)
-- JDK vs JRE vs JVM
-- Spring Profiles
-- Building Spring Application: Maven, Graddle.
-- Executable Jar
+### Spring Core
+- Spring vs Spring Boot
+- Spring Container
+- Bean lifecycle (high-level)
 
+### Hands-on
+- Install JDK & IDE (IntelliJ / Eclipse)
+- Create a Maven project
+- Run a basic Java application
+
+---
+
+## Day 2 – Spring Core & Dependency Injection
+
+### Concepts
+- Spring Beans
+- Bean scopes
+  - `singleton`
+  - `prototype`
+- Dependency Injection
+  - Constructor Injection (recommended)
+  - Setter Injection
+
+### Annotations
+- `@Component`
+- `@Service`
+- `@Repository`
+- `@Autowired`
+- `@Qualifier`
+
+### Configuration
+- Java-based configuration
+  - `@Configuration`
+  - `@Bean`
+- Component scanning
+  - `@ComponentScan`
+
+### Hands-on
+- Create:
+  - `UserService`
+  - `UserRepository`
+- Inject dependencies
+- Run using Spring ApplicationContext
+
+---
+
+## Day 3 – Spring Boot Fundamentals
+
+### Concepts
+- Why Spring Boot?
+  - Auto-configuration
+  - Starter dependencies
+- Project structure
+- `@SpringBootApplication`
+
+### Configuration
+- `application.properties`
+- `application.yml`
+- Profiles (`dev`, `test`)
+
+### Web Basics
+- Embedded Tomcat
+- REST API basics
+
+### Hands-on
+- Create a Spring Boot project
+- Create REST endpoint:
+  - `GET /hello`
+
+---
+
+## Day 4 – Spring MVC (REST APIs)
+
+### Concepts
+- MVC Architecture
+- Controllers
+  - `@RestController`
+  - `@RequestMapping`
+  - `@GetMapping`
+  - `@PostMapping`
+
+### Request Handling
+- `@PathVariable`
+- `@RequestParam`
+- `@RequestBody`
+
+### Response
+- HTTP status codes
+- `ResponseEntity`
+
+### Hands-on
+- Build in-memory CRUD APIs:
+  - `POST /users`
+  - `GET /users`
+  - `GET /users/{id}`
+
+---
+
+## Day 5 – Database & Spring Data JPA
+
+### Concepts
+- ORM basics
+- JPA & Hibernate
+- Entity annotations
+  - `@Entity`
+  - `@Id`
+  - `@GeneratedValue`
+  - `@Table`
+  - `@Column`
+
+### Repositories
+- `JpaRepository`
+- Common CRUD methods
+
+### Database
+- H2 (in-memory) or PostgreSQL
+
+### Hands-on
+- Connect DB to Spring Boot
+- Create `User` entity
+- Implement DB-backed CRUD APIs
+
+---
+
+## Day 6 – Validation, Exception Handling & Security Basics
+
+### Validation
+- Bean Validation
+  - `@NotNull`
+  - `@Size`
+  - `@Email`
+- `@Valid`
+
+### Exception Handling
+- Custom exceptions
+- `@ExceptionHandler`
+- `@ControllerAdvice`
+
+### Spring Security (Intro)
+- What Spring Security is
+- Authentication vs Authorization
+- Basic Authentication
+- Security filter chain (concept)
+
+### Hands-on
+- Add validation to APIs
+- Global exception handling
+- Secure one endpoint with Basic Auth
+
+---
+
+## Day 7 – Testing, Best Practices & Mini Project
+
+### Testing
+- Unit testing basics
+- `@SpringBootTest`
+- `@WebMvcTest`
+- Mockito basics
+
+### Best Practices
+- Layered architecture
+  - Controller → Service → Repository
+- DTO vs Entity
+- Logging with SLF4J
+- Basic performance tips
+
+### Mini Project
+**User Management REST API**
+- CRUD operations
+- Validation
+- Global exception handling
+- H2 or PostgreSQL
+- Basic authentication
+
+---
+
+## Outcome After 1 Week
+You should be able to:
+- Explain IoC & Dependency Injection
+- Build REST APIs with Spring Boot
+- Use Spring Data JPA with a database
+- Handle validation & exceptions
+- Write basic tests
+- Understand real-world Spring project structure
 
