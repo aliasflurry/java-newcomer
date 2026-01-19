@@ -54,6 +54,7 @@ Using your hello world project
 - Create a constructor with all the attributes
 - Create two student profiles and print out all atribute
 - Call the increase student's expectation graduation year by 1 method and print Expected year to graduate from both students
+
 Solve neetcode problem:
 
 https://neetcode.io/problems/buy-and-sell-crypto
