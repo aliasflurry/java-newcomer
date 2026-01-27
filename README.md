@@ -373,7 +373,7 @@ Handle:
 - Swagger / OpenAPI
 
 ---
-
+## Create a github repo and add @aliasflurry to the project
 ## Final Outcome
 After 3 weeks, students will be able to:
 - Write clean Java code
