@@ -184,9 +184,11 @@ Solve:
 
 ## 1. Spring Framework Introduction
 - Problems Spring solves
+- SOLID Principles
 - Inversion of Control (IoC)
 - Dependency Injection (DI)
 - Spring vs Spring Boot
+- Design pattern
 
 ---
 
