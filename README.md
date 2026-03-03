@@ -352,7 +352,7 @@ Handle:
 
 ---
 
-## 10. No Authentication
+## 10. Authentication
 ### Authentication Type
 - **Basic Authentication** (Required)
 
